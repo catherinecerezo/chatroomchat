@@ -8,7 +8,7 @@ to run the app:
 - access the folder in Git bash where you saved the files
 for example:
 Downloads > Chatroom > Chat
-- install express and socket.io using the npm command in Githab
+- install express and socket.io using the npm command in Git bash
 - initialize the code by typing:
 node server.js
 - open Google Chrome
